@@ -53,7 +53,7 @@ A culmination of the first approach, this uses a **hierarchical process** where 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/vpalani232/AAI-520.git
     cd Multi-Agent-Financial-Analysis
     ```
 2.  **Set up the environment:**
