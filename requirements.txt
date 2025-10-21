@@ -1,0 +1,11 @@
+crewai
+streamlit
+yfinance
+pandas
+numpy
+scipy
+matplotlib 
+faiss-cpu
+google-search-results
+serpapi
+sentence-transformers
